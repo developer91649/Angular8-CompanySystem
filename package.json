@@ -47,7 +47,7 @@
     "ng2-hallelujah": "https://github.com/pinksummit/HALlelujah/releases/download/0.2.0/ng2-hallelujah-0.2.0.tgz",
     "ng2-split-pane": "^1.4.0",
     "ngx-logger": "^4.0.3",
-    "node-sass": "^4.12.0",
+    "node-sass": "^4.13.1",
     "rxjs": "^6.5.2",
     "rxjs-compat": "^6.5.2",
     "typescript-dotnet-commonjs": "4.11.2",
